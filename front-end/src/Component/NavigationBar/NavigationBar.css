@@ -1,0 +1,40 @@
+ul{
+    list-style : none;
+    background-color: rgb(238 227 202);
+}
+li{
+    position: relative;
+    display: inline;
+}
+.nav1{
+    background-color: rgb(238 227 202);
+    border-bottom: 2px solid #194729;
+    border-top: 1px solid #194729;
+ 
+}
+.nav2{
+    background-color: rgb(238 227 202);
+    position:top;
+    margin-top: 0px;
+    border: 50px;
+}
+.nav-link {
+
+    display: inline-block;
+    width: 24%;
+    text-decoration: none;
+    background-color: rgb(238 227 202);
+    color: #194729;
+    font-weight: 800;
+    cursor: pointer;
+    margin: 2px;
+    font-family: "Courier New", monospace;
+    font-size: 150%;
+    margin-top: 1.5%;
+}
+
+.NavigationBar{
+    background-color: rgb(238 227 202);
+   
+    
+}

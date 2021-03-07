@@ -1,0 +1,49 @@
+.home1{
+    width: 35%;
+    float: right;
+    margin-top: 0px;
+    height: 520px;
+    
+}
+
+.home2{
+    width: 35%;
+    float: left;
+    height: 520px;
+    margin-top: 0%;
+}
+
+.a{
+    display: grid;
+}
+
+.LeaTitle{
+    width: 30%;
+    text-decoration: none;
+    background-color: rgb(246 235 221);
+    color: #194729;
+    font-weight: 700;
+    font-size: 95px;
+    margin-top: 20px;
+    cursor: pointer;
+    display: inline;
+    float: left;
+    line-height: 86px;
+    font-family: "Courier New", monospace;
+}
+.Artist{
+    width: 30%;
+    text-decoration: none;
+    color: #194729;
+    font-weight: 700;
+    font-size: 40px;
+    cursor: pointer;
+    display: inline;
+    float: center;
+    line-height: 86px;
+    font-family: "Courier New", monospace;
+}
+
+/* .Text{
+    float: center;
+} */
